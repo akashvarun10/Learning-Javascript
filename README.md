@@ -1,2 +1,2 @@
 # Learning-Javascript
-Learning Javascript by building a project 
+Learning Javascript by building few projects
